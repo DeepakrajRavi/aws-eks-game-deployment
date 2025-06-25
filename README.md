@@ -1,6 +1,9 @@
 # Deploying a Simple Game on AWS EKS with ALB Ingress Controller
 
 This project demonstrates how to deploy a simple containerized game application on AWS Elastic Kubernetes Service (EKS) using Fargate worker nodes and AWS Application Load Balancer (ALB) Ingress Controller for traffic management.
+![image](https://github.com/user-attachments/assets/02e1b482-a81b-44d3-a9bd-b63babab5002)
+
+
 
 ---
 
